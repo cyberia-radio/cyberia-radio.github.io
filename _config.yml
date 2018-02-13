@@ -1,9 +1,13 @@
 actors:
-  none:
-    image_url:
-    name: none
-    url: 
-author: none
+  alice:
+    image_url: /images/actors/shausagi.png
+    name: shausagi
+    url: https://twitter.com/shoutrock_2
+  bob:
+    image_url: /images/actors/6uclz1.png
+    name: 6uclz1
+    url: https://twitter.com/6uclz1
+author: 6uclz1
 description: soon...
 description_long: sorry, soon soon...
 email: cyberia.radio.info@gmail.com
